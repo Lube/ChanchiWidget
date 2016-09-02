@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.32.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b3a71cee6747fa7a26450a561dbb8416e828657b">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-bae49e55a1ac9b3f7b2ab596d2ff6d377d9c9c0c.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-base/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ba22785d529a9cd95f714ca782a59846a22ce02">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-5bc9e1b4c1347cb5c8be3f6724f685af2aca7e41.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.32.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fafe977792a3a9abcc3ead487bbb1cabe4d9b5ff">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-d586e4c319746734c0a640fa44de71d2a6585e80.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-e5dcc0ffd0a1ec5779c03409ad4b1c7190acd617.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/Chanchi/RNSound/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8439d15580baa4e614ee6628390391f2a99a194f">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-293eb29fd591d102fb6f3d6c3aad04a44e9bbb21.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-e112ddd9e5b4472438140ec306bdf3ec9158eccb.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-6291a07f9f684a17131efde6e6612e690d9454d4.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-13c02f81da912c31ed101fbcd10704f8e6f0f334.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-bd90b21b8e7cabec38e9ce5776a090a1e6744717.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-gif/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e359c53b444598bf7973f1cbf31c8dc769e19f">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-617f1340a70e8820e006186f862011e3e33434b1.jar" />
+    </item>
+    <item
+        jar="/home/lube/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-e75be0fdd318651691d1bea34fe53d36587227e7.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-a6c9009301b002316d7a5fe04c085c1aece1d813.jar" />
+    </item>
+    <item
+        jar="/home/lube/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-6a626060a289c3ec68752a68810915970693ab39.jar" />
+    </item>
+    <item
+        jar="/home/lube/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-fc680c8d40f4006e8f6cafe3d6a89d4194e4a236.jar" />
+    </item>
+    <item
+        jar="/home/lube/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-2706cf7644617f5c6e4338fba561f50fd561b9b4.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-1812f9f19e1ad6972faee5752e6a33136152ac17.jar" />
+    </item>
+    <item
+        jar="/home/lube/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-63c7ec635bd4a6c0b05a7a11f54fdcf96c1d069b.jar" />
+    </item>
+    <item
+        jar="/home/lube/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-633420527465250dc74e086172b59aa3c76e85ea.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-db470b5c10d9e9f5f82e21c1ddbdfbdd32f9a91c.jar" />
+    </item>
+    <item
+        jar="/home/lube/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-3029b0afd2b960b2b1af2c8cbf375e984cc2b555.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-f13b4a822057b0564375389bf8c25a54f8f6e0a7.jar" />
+    </item>
+    <item
+        jar="/home/lube/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-d293a6bb8178b55897ce72706df4e0825bb2cada.jar" />
+    </item>
+    <item
+        jar="/home/lube/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-e23b57310df9bd17f778d12b1d34d69c0b8a1ff3.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-01a7288489a577a8f8f99cef37fe3b97add36f01.jar" />
+    </item>
+    <item
+        jar="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/lube/Dev/JS/React-Native/Chanchi/android/app/build/intermediates/pre-dexed/debug/classes-d7bb35af1799af50d2fbfe9f8e429eb85d6bd264.jar" />
+    </item>
+
+</items>
